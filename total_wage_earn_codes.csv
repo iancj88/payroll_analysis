@@ -1,0 +1,77 @@
+earn_code,earn_code_desc,total_wage_applicable
+ADJ,Adjustment Pay,T
+ANN,Annual,T
+ANX,Annual Excess,F
+APO,Annual Payout,T
+ADD,blank,T
+BON,Bonus Pay,T
+CAR,Car Allowance,F
+CEL,Cellphone Allowance,F
+CPO,Comp Payout,F
+CTC,Comp Time Coverted,F
+CTE,Comp Time Earned,F
+CMP,Comp Time Used,T
+ASU,Dock- Pay Salary,F
+DSL,Donated Sick Leave Used,F
+EXN,Extra Comp,T
+EXS,Extra Comp,T
+EXR,Extra Comp,T
+EXA,Extra Comp,T
+EXG,Extra Comp,T
+EXD,Extra Comp,T
+EXP,Extra Comp,T
+EXT,Extra Comp,T
+EXC,Extra Comp,T
+EXW,Extra Comp,T
+EXM,Extra Comp,T
+EXH,Extra Hours,T
+GAP,Gift & Award Pay,F
+G&A,Gift & Award Pay,F
+HHW,Holidays Worked,T
+LNO,Leave No Pay No Benefit,F
+LWP,Leave Without Pay (Dock Pay),F
+LMP,Lump Sum,T
+NCT,Non Cash Taxable,F
+OT,Overtime,T
+REG,Regular Pay,T
+RET,Retro,T
+SIC,Sick ,T
+SPO,Sick Payout,T
+STI,Stipend,T
+STU,Student,F
+SSR,Summer Session Research,T
+SSE,Summer Session Teaching,T
+SST,Uniform Stipend,F
+ANH,Adjust Negative Hours,F
+AXP,Annual Excess Leave Term Payoff,T
+EPD,Non Cash Comp Same Day Per Diem,F
+FLA,Flat Amount,F
+HOL,Class Hourly Holiday,T
+LFP,Leave Full Pay & Full benefits,T
+LNP,Leave no Pay with Benefits,F
+MIL,Military Leave,F
+MOV,Non Cash Comp Moving/NonTax,F
+MOX,Non Cash Comp Moving Taxable,F
+MZG,Special Use non cash,F
+NCT,Non Cash Comp Other Taxable,F
+SCK,Sick Leave,F
+SRE,Summer Retro Earnings,T
+SSA,Add Duties-Overload/Vacancy TE,T
+SSP,Program/Project Assistance RS,F
+SUP,Supplemental Amount,F
+TPS,TIPS-Res Life Univ Food Svc,T
+BHW,Boiler Holiday Worked,T
+MLG,One Time Payment,T
+SSN,Summer Session Teaching GR,T
+GRT,Grant Component,T
+RTG,2015 Retro for Grad Asst Pay,T
+RTP,2014 Retro for Grad Asst Pay,T
+REO,Retro for raise,T
+TUI,Non Cash Comp. TuitionFee Wvr.,F
+HFE,Comp time Earned-OT Exempt EE,F
+HO2,Non Cash Comp Housing Taxable,F
+SHW,Class.Sal Holiday Worked,F
+HOU,Non Cash Comp Housing-Exec,F
+SBF,Sabbatical @ Full Pay,T
+MEA,Non Cash Comp. Meals/NonTax.,F
+ADG,Adjustment Cash - Non Tax,F

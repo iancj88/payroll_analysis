@@ -1,0 +1,66 @@
+﻿Earn Code,Descr.,Use For Total Wage Computation,Notes
+ADJ,Adjustment Pay,T,Can be used to correct previous payroll errors - positive and negative
+ANN,Annual,T,Payment for annual leave claimed during pay period
+APO,Annual Payout,T,payout of annual leave when termed or moving to a job with no annual leave
+ADD,blank,T,"used for aditional ad hoc duties, i.e. covering of other duties temporarily"
+BON,Bonus Pay,T,lump sum bonus equivalent for professionals
+CMP,Comp Time Used,T,payout of hours claimed using comp-time
+EXN/EXS/EXR/EXA/EXG/EXD/EXP/EXT,Extra Comp,T,"various ad comp codes for differing purposes, i.e. research, admin, teaching etc"
+EXH,Extra Hours,T,"used historicaly for part-time salaried employees, (historically, 'salaried' were just those people that had default pay-period earnings. No connotation to overtime exemption)"
+HHW,Holidays Worked,T,payout four hours worked on holidays for hourly workers
+LMP,Lump Sum,T,lump sum bonus for classified
+OT,Overtime,T,overtime hours paid at 1.5x hourly rate
+REG,Regular Pay,T,code that captures wages paid under normal circumstances
+RET,Retro,T,payment retroactively applied in cases when an employee was underpaid due to data integrity issues. Always positive. See ADJ.
+SIC,Sick ,T,pay for hours claimed under sick-time benefit
+SPO,Sick Payout,T,"used when terming MSU, or moving to non-sickpay job"
+STI,Stipend,T,
+SSR,Summer Session Research,T,payments associated with TT/T Faculty summer session jobs 
+SSE,Summer Session Teaching,T,payments associated with TT/T Faculty summer session jobs 
+AXP,Annual Excess Leave Term Payoff,T,payout for terminated jobs (or at employees request at time of internal job change)
+HOL,Class Hourly Holiday,T,payout for holiday hours worked by classified staff
+LFP,Leave Full Pay & Full benefits,T,similar to REG but for jobs in 'L' leave status
+MIL,Military Leave,T,time paid out for  eligible enlisted military duties
+SRE,Summer Retro Earnings,T,Retro payments for termed summer session jobs
+SSA,Add Duties-Overload/Vacancy TE,T,additional compensation for summer administrative duties
+TPS,TIPS-Res Life Univ Food Svc,T,tip earnings for food service employees
+BHW,Boiler Holiday Worked,T,holidays hours worked at union negotiated rate
+MLG,One Time Payment,T,depreciated One-Pay payment
+SSN,Summer Session Teaching GR,T,depreciated graduate summer session teaching payment
+GRT,Grant Component,T,grant funded salary contributions
+RTG,2015 Retro for Grad Asst Pay,T,retro payments for termed graduate assistant (4D%) codes
+RTP,2014 Retro for Grad Asst Pay,T,retro payments for termed graduate assistant (4D%) codes
+REO,Retro for raise,T,retro payment for raise payments
+SBF,Sabbatical @ Full Pay,T,depreciated earn code. payment to jobs in sabbatical status
+ANX,Annual Excess,F,used for calc purposes only
+CAR,Car Allowance,F,
+CELLPHONE,Cellphone Allowance,F,
+CPO,Comp Payout,F,used for calc purposes only
+CTC,Comp Time Coverted,F,used for calc purposes only
+CTE,Comp Time Earned,F,used for calc purposes only
+ASU,Dock- Pay Salary,F,"positive number used to indicate negative deductions from regular pay,  REG pay already accounts for the deduction"
+DSL,Donated Sick Leave Used,F,"used for calc purposes only, see SIC for actual payout using sick-time"
+GAP /G&A,Gift & Award Pay,F,
+LNO,Leave No Pay No Benefit,F,"for calc purposes, used to capture the number of hours paid out at $0 rate"
+LWP,Leave Without Pay (Dock Pay),F,"positive number of wages lost due to LWOP, REG amount takes this account"
+NCT,Non Cash Taxable,F,typically reimubursement for out-of-pocket business expenses
+STU,Student,F,student hours are paid out via the REG code. This is a placeholder for calc purposes
+SST,Uniform Stipend,F,reimbursement for uniform costs
+ANH,Adjust Negative Hours,F,"used for calc purposes only, also for transparency for payroll adjustments. See ADJ"
+EPD,Non Cash Comp Same Day Per Diem,F,reimbursement for per deim travel expenses
+FLA,Flat Amount,F,"non-standard payouts for legal issues, termination bonuses (football coach), others?"
+LNP,Leave no Pay with Benefits,F,will always have a payout rate of $0
+MOV,Non Cash Comp Moving/NonTax,F,reimbursement for moving expenses
+MOX,Non Cash Comp Moving Taxable,F,reimbursement for moving expenses
+MZG,Special Use non cash,F,?
+NCT,Non Cash Comp Other Taxable,F,similar to awards/gifts
+SCK,Sick Leave,F,"used for calc purposes only, see SIC for actual payout using sick-time"
+SSP,Program/Project Assistance RS,F,payout to faculty to support setup of lab space etc
+SUP,Supplemental Amount,F,used for calc purposes only
+TUI,Non Cash Comp. TuitionFee Wvr.,F,compensation for tuition fee waiver benefit
+HFE,Comp time Earned-OT Exempt EE,F,depreciated earn code
+HO2,Non Cash Comp Housing Taxable,F,compensation for housing/moving assitance
+SHW,Class.Sal Holiday Worked,F,depreciated earn code
+HOU,Non Cash Comp Housing-Exec,F,compensation for executive housing/moving assitance
+MEA,Non Cash Comp. Meals/NonTax.,F,depreciated earn code
+ADG,Adjustment Cash - Non Tax,F,depreciated earn code

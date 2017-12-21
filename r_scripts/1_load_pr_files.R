@@ -64,3 +64,9 @@ load_payroll_files <- function(src_folder_path = "./src/") {
   
   return(pr_data)
 }
+
+load_earn_code_lu <- function() {
+  require(readr)
+  earn_code_lu <- read_csv(file = "./total_wage_earn_codes.csv")
+  return(earn_code_lu)
+}
